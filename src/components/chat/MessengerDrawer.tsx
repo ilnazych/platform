@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { setChildrenDrawer, setDrawer } from '../../features/chat/chat';
 import { Drawer, Space } from 'antd';
 import { Chat } from './chat/Chat';
